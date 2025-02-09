@@ -1,0 +1,50 @@
+body {
+    font-family:  Arial, sans-serif;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    width: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.description {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.highlight {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.highlight h2 {
+    font-size: 20px;
+background-color: orange;
+    margin: 0;
+}
+
+.highlight p {
+    font-size: 14px;
+    color: black;
+    margin-top: 5px;
+}
+.footer-text {
+    font-size: 14px;
+    color: black;
+    margin-top: 15px;
+}
